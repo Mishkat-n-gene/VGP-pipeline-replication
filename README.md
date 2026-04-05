@@ -41,8 +41,8 @@ Advances in sequencing technologies have revolutionized *de novo* genome assembl
 
 Two major challenges motivate the VGP approach:
 
-- **Repetitive content** — transposable elements and tandem repeats constitute over a third of mammalian genomes and are a major source of assembly fragmentation.
-- **Heterozygosity** — haplotype phasing is fundamental for diploid and polyploid genome assemblies, and unresolved heterozygosity leads to false duplications.
+- **Repetitive content** transposable elements and tandem repeats constitute over a third of mammalian genomes and are a major source of assembly fragmentation.
+- **Heterozygosity** haplotype phasing is fundamental for diploid and polyploid genome assemblies, and unresolved heterozygosity leads to false duplications.
 
 The tutorial assembles *Saccharomyces cerevisiae* S288C as a demonstration model, using synthetic HiFi reads generated from the reference genome.
 
